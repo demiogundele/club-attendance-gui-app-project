@@ -13,5 +13,6 @@ Delilah: Personal attendance page (members)
 - Python
 - Tkinter
 - SQLite
-- The code will be organized into separate classes: model classes (Member, Event, etc.), one window class per page, and a database manager for all queries
+- The code will be organized into separate classes: model classes (Member, Event, etc.), one window class per page, and a database manager for all queries.
+
 To more efficiently test our code logic, we will separate the logic code from the GUI code, using pytest for the database and attendance logic. We will ensure to include PEP8 checked with flake8, docstrings, a GitHub README, and commits to our shared repository. 
