@@ -1,0 +1,10 @@
+"""
+Members will have access to an events page where they can view upcoming events and RSVP to indicate 
+whether they plan to attend. Members can select either “Going” or “Not Going” for each event. 
+Their responses will be saved to the database and updated accordingly.
+"""
+
+# Kiana - Members events page (RSVP, “Going” / “Not Going”)
+
+import tkinter as tk
+from tkinter import messagebox
